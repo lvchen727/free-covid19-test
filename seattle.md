@@ -129,7 +129,7 @@ Tips:
 ### 4.测试结果查询
 
 测试结果查询网址：https://securelink.labmed.uw.edu/
-需填入提到的提取码和你的生日。
+需填入前文提到的[提取码](#登记)和你的生日。
 
 ![alt text](./images/result.png "result")
 
