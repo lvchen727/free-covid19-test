@@ -22,7 +22,7 @@ Details can be found at [King County Website](https://kingcounty.gov/depts/healt
 
 ### Loations with online reservation
 **Highly recommended!**
-| Tips: With online reservation, you can still go Aurora Testing Site for walk-in or drive-in. You will need to fill the same form at the site. If it will save your time and limit your access to others if you fill the forms online before you go. |
+| Tips: With online reservation, you can still go Aurora Testing site for walk-in or drive-in. You will need to then fill out the same form at the site. It will save your time and limit your access to others if you fill out the forms online before you go. |
 | --- |
 1. City of Seattle at Aurora (North Seattle)
     - 12040 Aurora Ave N., Seattle, WA 98133
@@ -93,25 +93,25 @@ Click the link, you will see below page. Find the available time slot and fill i
 ![alt text](./images/appointment.png "appointment")
 
 Tips: 
-1. Usually the available slots are several days' later. However, you may be lucky to find the same day slot if you keeps refreshing the page. I booked a 3:45pm slot at 3:30. 
+1. Usually the available slots are several days later. However, you may be lucky to find the same day slot if you keeps refreshing the page. I booked a 3:45pm slot at 3:30pm same day. 
 2. It is OK to be late for the appointment. I arrived 4:00pm for my 3:45pm test. I guess it may be fine as long as it is after your appointment time and before they are closed.
 3. It is *FREE* ! Why do they ask for insurance information? Here is the explanation: They will bill insurance company first, if insurance refuses to pay, they will pay with King County COVID Fundings.
-4. How to cancel the appointment? You will receive a text message and email once book successfully. There is a link there to cancel appointment.
+4. How to cancel the appointment? You will receive a text message and email once book successfully. There is a link there to cancel the appointment.
 
 
 ### 2. Available Types of Testings 
 
 #### Drive-in
-- There are 5 testing lanes for Drive-in. A person at the curb would ask you if you have appointment and point you to one lane to wait. Once you are close to tesing booth, another person will ask if you have an online appointment again, and hand you a pad to fill in information if you don't.
+There are 5 testing lanes for Drive-in. A person at the curb would ask you if you have appointment and point you to one lane to wait. Once you are close to tesing booth, another person will ask if you have an online appointment again, and hand you a pad to fill in information if you don't.
 ![alt text](./images/drive-through.png "drive-through")
 
 #### Walk-in
-- There are two testing booths at curb. I guess they are used for walk-in. You still need to fill the forms if you haven't filled online. The picture showed the doctor doing the test for a lady.
+There are two testing booths at curb. I guess they are used for walk-in. You still need to fill the forms if you haven't filled online. The picture showed the doctor doing the test for a lady.
 ![alt text](./images/walk-in.png "walk-in")
 
 ### 3. Drive-in Process
 
-**Two steps for Drive-in!** You will drive through two booths one after another. The process is super fast, less than 10min.
+**Two steps for Drive-in!** You will drive through two booths one after another. First for check-in, second for the test. The process is super fast, less than 10min.
 ![alt text](./images/2-steps-overview.png "2-steps-overview")
 
 #### Check in
@@ -124,7 +124,7 @@ In the first booth, the doctor asked me to put my driver licence in a small plas
 ![alt text](./images/3-things.png "3-things")
 
 #### Test
-In the second booth, another doctor took back the test tube and gave me the test. It felt really uncomfortable: she inserted a sampling rods deeply into my nose, 5 second for each nostril, asking me to keep breathing during the process. I shed tears immediately.
+In the second booth, another doctor took back the test tube and gave me the test. It felt really uncomfortable although she was very kind and patient: she inserted a sampling rods deeply into my nose, 5 second for each nostril, asking me to keep breathing during the process. I shed tears immediately.
 
 Then it is time to go home and rest! **It usually takes 48 hours to get the result online.** It took me around 60 hours, maybe due to high testing flow.
  
@@ -144,4 +144,4 @@ It will ask for your birth date and retrieval code which can be found in the pap
 
 2. It is worth checking everything with a phone call before heading there directly.
 
-3. Big thanks and respect to King County offering the free test and medical workers for their hard work! Stay safe and well, everyone!
+3. Big thanks and respect to King County offering the free test and medical workers for their hard work! Stay safe and well!
