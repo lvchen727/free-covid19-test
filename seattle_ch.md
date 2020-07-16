@@ -20,7 +20,7 @@
 详见[金县官网](https://kingcounty.gov/depts/health/covid-19/care/testing/locations.aspx)， 下面只列出西雅图测试点。Kent, Bellevue 等请点官网。
 
 ### 可网上预约测试点-推荐
-| Tips: Aurora测试点也可以不预约直接walk-in or dirve-in. 但是去了还是要填网上预约的表。所以建议提前网上预约填好，节省时间和在测试点的人员接触 |
+| Tips: Aurora测试点也可以不预约直接walk-in or drive-in. 但是去了还是要填网上预约的表。所以建议提前网上预约填好，节省时间和在测试点的人员接触 |
 | --- |
 1. City of Seattle at Aurora (North Seattle)
     - 12040 Aurora Ave N., Seattle, WA 98133
@@ -139,3 +139,5 @@ Tips:
 1. 保险公司会报销covid测试吗？这里介绍的测试地点都是免费的。但是如果你去某些clinics做测试未必免费，可能需要你的家庭医生refer或者in-network才可以报销，请打保险公司电话咨询。
 
 2. 疫情期间各种事情可以先打电话确认再出行。
+
+3. 感谢医务工作者的辛勤劳动以及金县提供免费的测试。整个测试过程最大限度的降低了人员接触，感谢！希望大家都健康顺利的度过疫情。
