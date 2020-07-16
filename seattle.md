@@ -3,7 +3,7 @@
 ## 目录
 
 - [新冠免费测试点](#新冠免费测试点)
-   * [网上可预约测试点(推荐!)](#网上可预约测试点(推荐!))
+   * [可网上预约测试点(推荐!)](#可网上预约测试点(推荐!))
    * [其他测试点](#其他测试点)
 - [Aurora测试点体验](#Aurora测试点体验)
   * [1.网上预约](#1.网上预约)
@@ -19,7 +19,7 @@
 ## 新冠免费测试点
 详见[金县官网](https://kingcounty.gov/depts/health/covid-19/care/testing/locations.aspx)， 下面只列出西雅图测试点。Kent, Bellevue 等请点官网。
 
-### 网上可预约测试点(推荐!)
+### 可网上预约测试点(推荐!)
 | Tips: Aurora测试点也可以不预约直接walk-in or dirve-in. 但是去了还是要填网上预约的表。所以建议提前网上预约填好，节省时间和在测试点的人员接触 |
 | --- |
 1. City of Seattle at Aurora (North Seattle)
@@ -36,7 +36,7 @@
     - [SODO预约网址](https://www.solvhealth.com/book-online/0xvwjp)
 
 ### 其他测试点
-| Tips: No appointment necessary的信息不准确。我去了Sea Mar Community Health Centers at South Park，发现并不可以walk-in,而是要打电话预约，然而电话转来转去并不好打通，所以强烈建议去网上可预约的测试点。 |
+| Tips: No appointment necessary的信息不准确。我去了Sea Mar Community Health Centers at South Park，发现并不可以walk-in,而是要打电话预约，然而电话转来转去并不好打通，所以强烈建议去可网上预约的测试点。 |
 | --- |
 - Downtown Public Health Center
     - No appointment necessary
