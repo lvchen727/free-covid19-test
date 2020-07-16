@@ -22,7 +22,7 @@ Details can be found at [King County Website](https://kingcounty.gov/depts/healt
 
 ### Loations with online reservation
 **Highly recommended!**
-| Tips: With online reservation, you can still go Aurora Testing site for walk-in or drive-in. You will need to then fill out the same form at the site. It will save your time and limit your access to others if you fill out the forms online before you go. |
+| Tips: Without online reservation, you can still go Aurora Testing site for walk-in or drive-in. You will need to then fill out the same form at the site. It will save your time and limit your access to others if you fill out the forms online before you go. |
 | --- |
 1. City of Seattle at Aurora (North Seattle)
     - 12040 Aurora Ave N., Seattle, WA 98133
@@ -124,7 +124,7 @@ In the first booth, the doctor asked me to put my driver licence in a small plas
 ![alt text](./images/3-things.png "3-things")
 
 #### Test
-In the second booth, another doctor took back the test tube and gave me the test. It felt really uncomfortable although she was very kind and patient: she inserted a sampling rods deeply into my nose, 5 second for each nostril, asking me to keep breathing during the process. I shed tears immediately.
+In the second booth, another doctor took back the test tube and gave me the test. It felt really uncomfortable although she was very kind and patient: she inserted a sampling stick deeply into my nose, 5 second for each nostril, asking me to keep breathing during the process. I shed tears immediately.
 
 Then it is time to go home and rest! **It usually takes 48 hours to get the result online.** It took me around 60 hours, maybe due to high testing flow.
  
@@ -132,7 +132,7 @@ Then it is time to go home and rest! **It usually takes 48 hours to get the resu
 
 Result searching page：https://securelink.labmed.uw.edu/
 
-It will ask for your birth date and retrieval code which can be found in the paper given to you during the check-in of the testing.
+It will ask for your birth date and retrieval code which can be found in the paper given to you during the [check-in](#Check-In) of the testing.
 
 ![alt text](./images/result.png "result")
 
